@@ -1,0 +1,189 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "71c439b4-46f7-4f81-8d91-a38183b61ea5",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook \n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b58dfec8-8163-41ba-b84e-7b33f1abcdb1",
+   "metadata": {},
+   "source": [
+    "Hello, My name is Ibrahim Alwazier and I'm going to say a brief introduction about data science. Data gathering, analysis, and decision-making are all part of data science. Finding patterns in data through analysis and forecasting the future are key components of data science. Companies may use data science to: Make better decisions."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3e074ac7-1c28-4133-a4d7-0a5f2405b891",
+   "metadata": {},
+   "source": [
+    "* Python\n",
+    "* R\n",
+    "* SQL\n",
+    "* Java\n",
+    "* Julia\n",
+    "* Scala\n",
+    "* C/C++\n",
+    "* JavaScript\n",
+    "* Swift\n",
+    "* Go\n",
+    "* MATLAB"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "39961a9b-2691-4577-9208-ce403d7cee15",
+   "metadata": {},
+   "source": [
+    "* TensorFlow\n",
+    "* NumPy\n",
+    "* SciPy\n",
+    "* Pandas\n",
+    "* Matplotlib\n",
+    "* Keras\n",
+    "* SciKit-Learn\n",
+    "* PyTorch"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e417d92a-fdb1-4f06-996d-988f050b4c94",
+   "metadata": {},
+   "source": [
+    "| Number Of Tools | Data Science Tools |\n",
+    "|-----------------|--------------------|\n",
+    "| Tool 1 | SAS |\n",
+    "| Tool 2 | Apache Spark |\n",
+    "| Tool 3 | BigML |\n",
+    "| Tool 4 | MATLAB |\n",
+    "| Tool 5 | ggplot2 |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f8f5534d-9d73-4517-b156-76a43c7e5fd5",
+   "metadata": {},
+   "source": [
+    "(155-55)\n",
+    "= 100\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "b2cc461f-5b0c-4937-a131-a699bdfb9117",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "addition of a and b is = 10\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = 5\n",
+    "b = 5\n",
+    "c = a + b\n",
+    "print(\"addition of a and b is =\",c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "d0a80609-eb4a-4515-8184-b52bbc3e2705",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "multiplication of a and b is = 50\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = 10\n",
+    "b = 5\n",
+    "c = a * b\n",
+    "print(\"multiplication of a and b is =\",c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "c30ef05e-e53f-424f-b793-b25b4e7e940b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "def minutes_into_hours(mins):\n",
+    "    return mins / 60\n",
+    "\n",
+    "r = minutes_into_hours(60)\n",
+    "print(r)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0638ebb0-f24a-4ee4-b59f-c9f53e92d941",
+   "metadata": {},
+   "source": [
+    "* Collecting data\n",
+    "* Processing data\n",
+    "* Exploring and visualizing data\n",
+    "* Analyzing data or applying machine learning to data\n",
+    "* Deciding based on acquired insight."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "402b5e68-e4c3-4324-a4a6-6776bad8f5eb",
+   "metadata": {},
+   "source": [
+    "James D. Miller"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "322f5d5f-e43c-4b05-971d-047c90b412b8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
